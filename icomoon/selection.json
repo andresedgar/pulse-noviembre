@@ -1,0 +1,136 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M1024 397.050l-353.78-51.408-158.22-320.582-158.216 320.582-353.784 51.408 256 249.538-60.432 352.352 316.432-166.358 316.432 166.358-60.434-352.352 256.002-249.538z"
+				],
+				"tags": [
+					"star",
+					"rate",
+					"favorite",
+					"bookmark"
+				],
+				"grid": 16
+			},
+			"properties": {
+				"id": 208,
+				"order": 4,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "star"
+			},
+			"setIdx": 0,
+			"iconIdx": 208
+		},
+		{
+			"icon": {
+				"paths": [
+					"M217.805 1011.814c15.667-51.251 39.424-123.443 71.219-227.891 138.547-22.374 195.891 17.869 283.904-142.541-71.424 22.323-157.542-41.421-152.883-69.018 4.608-27.648 200.346 19.917 328.448-165.786-161.485 36.301-213.197-43.674-192.358-55.757 48.077-27.904 190.822-11.571 266.906-87.194 39.219-38.912 57.549-133.581 41.626-167.373-19.2-40.755-136.038-101.581-200.448-95.898-64.41 5.734-165.427 250.317-195.379 248.371s-35.942-109.517 16.333-209.562c-55.142 24.883-156.16 102.349-187.853 168.55-59.034 123.187 5.53 405.658-15.155 415.744-20.736 10.035-90.419-129.69-111.206-193.024-28.416 97.075-29.082 194.355 53.965 323.584-31.334 84.787-48.435 182.374-51.046 231.987-1.229 39.731 37.018 48.23 43.93 25.805z"
+				],
+				"tags": [
+					"feather",
+					"write",
+					"blog",
+					"quill",
+					"edit"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 7,
+				"order": 1,
+				"prevSize": 20,
+				"code": 58881,
+				"name": "pluma"
+			},
+			"setIdx": 3,
+			"iconIdx": 7
+		},
+		{
+			"icon": {
+				"paths": [
+					"M901.12 512.768l-195.994-0.051 0.051-359.219h-386.662v359.27l-195.635-0.051 389.12 388.301z"
+				],
+				"tags": [
+					"arrow-down",
+					"download",
+					"bottom"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 190,
+				"order": 3,
+				"prevSize": 20,
+				"code": 58882,
+				"name": "down"
+			},
+			"setIdx": 3,
+			"iconIdx": 190
+		},
+		{
+			"icon": {
+				"paths": [
+					"M901.12 511.232l-195.994 0.051 0.051 359.219h-386.662v-359.27l-195.635 0.051 389.171-388.301z"
+				],
+				"tags": [
+					"arrow-up- upload",
+					"top"
+				],
+				"grid": 20
+			},
+			"properties": {
+				"id": 191,
+				"order": 2,
+				"prevSize": 20,
+				"code": 58883,
+				"name": "up"
+			},
+			"setIdx": 3,
+			"iconIdx": 191
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"showGlyphs": true,
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"resetPoint": 58880,
+			"showQuickUse": true,
+			"quickUsageToken": false,
+			"showMetrics": true,
+			"showMetadata": false
+		},
+		"imagePref": {
+			"color": 0,
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"png": false,
+			"sprites": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"showLiga": false,
+		"showGrid": true,
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"search": ""
+	}
+}
